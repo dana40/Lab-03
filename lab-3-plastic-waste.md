@@ -1,11 +1,11 @@
 Lab 3 - Plastic Waste
 ================
 DSC 200 - Data Science I
-2021-02-06
+2021-02-21
 
-Student Name:
+Student Name:Dana
 
-Student ID:
+Student ID:2201000498
 
 ``` r
 library(tidyverse)
